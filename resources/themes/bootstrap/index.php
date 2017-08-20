@@ -35,7 +35,7 @@
 
                 <?php $breadcrumbs = $lister->listBreadcrumbs(); ?>
 
-                <p class="navbar-text" style="size:30px;font-weight:500;">
+                <p class="navbar-text" style="size:30px !important;font-weight:500 !important;">
                     HyperX Downloads-<?php foreach($breadcrumbs as $breadcrumb): ?>
                         <?php if ($breadcrumb != end($breadcrumbs)): ?>
                                 <a href="<?php echo $breadcrumb['link']; ?>"><?php echo $breadcrumb['text']; ?></a>
