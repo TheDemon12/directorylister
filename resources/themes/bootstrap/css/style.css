@@ -30,8 +30,8 @@ body.breadcrumb-fixed {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-	font-size:35px;
-	font-weight:500;
+	font-size:25px;
+	font-weight:500 !important;
 }
 
 
