@@ -5,6 +5,7 @@
 	}
 
 	#main {
+	padding-top:10px;
 	text-align: center !important;
 	font-weight: bold;
 	}
