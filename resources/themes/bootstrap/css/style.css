@@ -30,7 +30,7 @@ body.breadcrumb-fixed {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-	font-size:23px;
+	font-size:18px;
 	font-weight:bolder !important;
 }
 
@@ -58,6 +58,8 @@ body.breadcrumb-fixed {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+	font-size: 120%;
+	font-weight:bold;
 }
 
 .file-name i {
