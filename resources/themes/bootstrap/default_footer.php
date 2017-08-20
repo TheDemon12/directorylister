@@ -1,5 +1,5 @@
 <hr>
 
 <div class="footer">
-    Powered by, <a href="http://www.directorylister.com">Directory Lister</a>
+    Copyright © 2017 HyperX. All Rights Reserved.</a>
 </div>
