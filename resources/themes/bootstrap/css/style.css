@@ -42,6 +42,7 @@ body.breadcrumb-fixed {
 #directory-list-header {
     font-family: 'Cutive Mono', monospace, serif;
     font-weight: 500;
+    padding: 10px 15px;
 	color: #fff;
 }
 
@@ -69,7 +70,7 @@ body.breadcrumb-fixed {
 .web-link-button {
     display: inline-block;
     cursor: pointer;
-    margin-left: 80%;
+    margin-left: 100%;
     padding: 6px 10px !important;
     position: absolute !important;
     top: 4px;
