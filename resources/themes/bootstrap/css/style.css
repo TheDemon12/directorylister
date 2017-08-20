@@ -19,7 +19,9 @@ body.breadcrumb-fixed {
 /* -------------------------------------------------------------------------- */
 /* -----| HEADER |----------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
-
+#page-navbar {
+	background-color:#000;
+}
 #page-navbar .navbar-text {
     display: block;
     float: left;
@@ -28,7 +30,6 @@ body.breadcrumb-fixed {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-	background-color:#000;
 }
 
 
