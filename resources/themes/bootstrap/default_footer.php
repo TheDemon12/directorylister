@@ -6,6 +6,7 @@
 
 	#main {
 	text-align: center !important;
+	font-weight: bold;
 	}
 </style>
 <div id="main"><a href="http://hyperx1.me">GO BACK TO MAIN WEBSITE</a></div>
