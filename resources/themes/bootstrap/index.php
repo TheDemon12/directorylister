@@ -54,8 +54,6 @@
                                 <i class="fa fa-arrow-circle-up fa-lg"></i>
                             </a>
                         </li>
-						<li>Changelogs</li>
-						<li>Home</li>
                     </ul>
 
                     <?php  if ($lister->isZipEnabled()): ?>
