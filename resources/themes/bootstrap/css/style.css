@@ -69,7 +69,7 @@ body.breadcrumb-fixed {
 .web-link-button {
     display: inline-block;
     cursor: pointer;
-    margin-left: 100%;
+    margin-left: 80%;
     padding: 6px 10px !important;
     position: absolute !important;
     top: 4px;
