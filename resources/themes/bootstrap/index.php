@@ -36,7 +36,7 @@
                 <?php $breadcrumbs = $lister->listBreadcrumbs(); ?>
 
                 <p class="navbar-text">
-                    <span  style="size:30px !important;font-weight:500 !important;">HyperX Downloads-<?php foreach($breadcrumbs as $breadcrumb): ?>
+                    HyperX Downloads-<?php foreach($breadcrumbs as $breadcrumb): ?>
                         <?php if ($breadcrumb != end($breadcrumbs)): ?>
                                 <a href="<?php echo $breadcrumb['link']; ?>"><?php echo $breadcrumb['text']; ?></a>
                                 <span class="divider">/</span>
@@ -44,7 +44,6 @@
                             <?php echo $breadcrumb['text']; ?>
                         <?php endif; ?>
                     <?php endforeach; ?>
-					</span>
                 </p>
 
                 <div class="navbar-right">

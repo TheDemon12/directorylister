@@ -30,6 +30,8 @@ body.breadcrumb-fixed {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+	font-size:35px;
+	font-weight:500;
 }
 
 
@@ -39,7 +41,7 @@ body.breadcrumb-fixed {
 
 #directory-list-header {
     font-family: 'Cutive Mono', monospace, serif;
-    font-weight: bold;
+    font-weight: 500;
     padding: 10px 15px;
 	color: #fff;
 }
